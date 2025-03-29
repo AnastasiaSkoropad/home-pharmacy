@@ -12,7 +12,7 @@ export default function Login() {
          style={styles.imgContainer}
         />
     <View style={styles.container}>
-      <Text style={styles.WelcomeText}>Welcome to Guide Courses</Text>
+      <Text style={styles.WelcomeText}>Welcome to Home Pharmacy</Text>
       <Text style={{textAlign:"center",marginTop:80, fontSize:25}}>Login/Signup</Text>
       <View style={styles.button}>
       <Ionicons name="logo-google" size={24} color="white" style={{marginRight:10}} />
